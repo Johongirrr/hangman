@@ -6,11 +6,12 @@ What is it?  It is really cool app for having nice time when you are free and wa
 All you have to do is install node-modules and run dev-server on dependencies
 npm i
 npm run dev-server
+
 # What technology is used?
 __JavaScript__, __HTML5__, __CSS3__, __WEBPACK__, __BABEL__, 
 
 
-And as storage I used localStorage for storing and removing
+ 
 As not all browsers support new cutting-edge javascript I used __BABEL__ for converting ES5+ syntax to all browser compatible ones. I incorperated __WEBPACK__ to run babel and use modular systems for writing cleaner code.
 
 ## Suggestions  are very welcome
